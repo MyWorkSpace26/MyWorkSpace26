@@ -79,24 +79,4 @@ CLI, настройка сетей, маршрутизация, базовые D
 </div>
 
 ---
-
-## 📫 Контакты
-
-📍 Москва  
-📧 [amin.alkobaili@gmail.com](mailto:amin.alkobaili@gmail.com)  
-📱 +7 (925) 267-97-89   
-🛠️ [GitHub Projects](https://github.com/MyWorkSpace26?tab=repositories)
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MyWorkSpace26&theme=onestar&no-frame=true&margin-w=15" alt="trophies"/>
-</p>
-
-<p align="center">
-  <img width="600" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
-
 <p align="center">✨ Спасибо, что заглянули! Добро пожаловать в мой код ✨</p>
