@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Привет,+я+Алькобаили+Амин!;React+Frontend+Developer+из+Москвы+🇷🇺;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Привет,+я+Аль Кобаили+Амин!;React+разработчик;" />
 </h1>
 
 <h3 align="center">Молодой React-разработчик с опытом создания современных веб-приложений</h3>
@@ -16,9 +16,6 @@
   </a>
   <a href="https://t.me/yourtelegram" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
-  </a>
-  <a href="https://warm-kheer-ed4b8d.netlify.app/#about" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
   </a>
 </div>
 
@@ -35,12 +32,11 @@
 ## 👨‍💻 Обо мне
 
 - 🧠 **Возраст:** 25 лет  
-- 🏙️ **Город:** Москва  
-- 🗣️ **Языки:** 🇷🇺 Русский (C1), 🇬🇧 Английский (B1), 🇸🇾 Арабский (родной)  
+- 🏙️ **Город проживания:** Москва  
+- 🗣️ **Языки:** Русский (C1), Английский (B1), Арабский (родной)  
 - 💼 **Опыт работы:** 1 год  
 - 💻 **Текущая должность:** React-разработчик  
 - 📧 **Контакты:** amin.alkobaili@gmail.com | +7 (925) 267-97-89  
-- 🌍 **Портфолио:** [warm-kheer-ed4b8d.netlify.app](https://warm-kheer-ed4b8d.netlify.app/#about)  
 - 🧾 **Цель:** Развитие в Frontend (React, Next.js, TypeScript)
 
 ---
@@ -75,7 +71,7 @@
 ## 🛠️ Навыки
 
 ### 💡 Frontend:
-React JS · Next.js · Redux Toolkit · TanStack Query · TypeScript · Tailwind · CSS Modules · Styled Components · React Router 6 · Framer Motion
+React JS · Next.js · Redux Toolkit · TanStack Query · TypeScript · Tailwind · CSS Modules (BEM) · Styled Components · HMR · Webpack 5 · Babel · React Router 6 · Framer Motion
 
 ### ⚙️ Backend:
 C# / ASP.NET MVC · SQL Server · REST API · CRUD
@@ -127,8 +123,7 @@ CLI, настройка сетей, маршрутизация, базовые D
 
 📍 Москва  
 📧 [amin.alkobaili@gmail.com](mailto:amin.alkobaili@gmail.com)  
-📱 +7 (925) 267-97-89  
-💼 [Портфолио](https://warm-kheer-ed4b8d.netlify.app/#about)  
+📱 +7 (925) 267-97-89   
 🛠️ [GitHub Projects](https://github.com/MyWorkSpace26?tab=repositories)
 
 ---
