@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Привет,+я+Аль Кобаили+Амин!;React+разработчик;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=80&duration=4000&lines=Привет,+я+Амин!;React+разработчик;" />
 </h1>
 
 <h3 align="center">Молодой React-разработчик с опытом создания современных веб-приложений</h3>
